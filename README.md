@@ -14,7 +14,7 @@ _Client_
 When you submit, please include the link to this repo. Include your deployed links below:
 
 Copy and Paste the Deployed Client Link to this README
-> 
+> https://doughnut-deploy-3.firebaseapp.com
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> https://frozen-journey-17244.herokuapp.com/hole
